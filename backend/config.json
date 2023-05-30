@@ -1,0 +1,16 @@
+{
+    "server"                :   "localhost",
+    "password"              :   "",
+    "username"              :   "root",
+    "dbname"                :   "workflow_management_system_v1",
+    "workflow_table"        :   "wp_workflow",
+    "step_table"            :   "wp_workflow_step",
+    "instance_table"        :   "wp_workflow_instance",
+    "employee_table"        :   "wp_employee_table",
+    "group_table"           :   "wp_group_details",
+    "employee_group"        :   "wp_employee_group",
+    "handler_table_person"  :   "wp_handling_request_person",
+    "handler_table_group"   :   "wp_handling_request_group",
+    "status_code"           :   "wp_status_code",
+    "login"                 :   "wp_login"
+}
